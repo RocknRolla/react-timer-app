@@ -19,7 +19,7 @@ let Navigation = React.createClass({
                 <div className="top-bar-right">
                     <div className="menu">
                         <li className="menu-text">
-                            <a href="https://github.com/thebasix/react-timer-app" target="_blank">GitHub</a>
+
                         </li>
                     </div>
                 </div>
